@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>County Hall.kml</name>
+	<name>county_hall.kml</name>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -32,6 +32,7 @@
 	</Style>
 	<Placemark>
 		<name>County Hall</name>
+		<description><![CDATA[<img src="https://lh5.googleusercontent.com/p/AF1QipPtsBQ0lHmMSQqnz4ox47BduEiFhXyrYRsZqVQy=w544-h306-k-no">]]></description>
 		<LookAt>
 			<longitude>-1.289242584299309</longitude>
 			<latitude>50.69994312011151</latitude>
