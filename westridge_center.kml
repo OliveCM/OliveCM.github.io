@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Westridge Center.kml</name>
+	<name>westridge_center.kml</name>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -32,6 +32,7 @@
 	</Style>
 	<Placemark>
 		<name>Westridge Center</name>
+		<description><![CDATA[<img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zd5FC6f9JNOu4r5H26UmTA&cb_client=search.gws-prod.gps&w=408&h=306&yaw=45.95323&pitch=0&thumbfov=100">]]></description>
 		<LookAt>
 			<longitude>-1.137618444801945</longitude>
 			<latitude>50.70916088284076</latitude>

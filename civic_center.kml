@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Civic Center.kml</name>
+	<name>civic_center.kml</name>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -32,6 +32,7 @@
 	</Style>
 	<Placemark>
 		<name>Civic Center</name>
+		<description><![CDATA[<img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d8TuePpHdPGecoNBmaQjYA&cb_client=search.gws-prod.gps&w=408&h=306&yaw=286.77347&pitch=0&thumbfov=100">]]></description>
 		<LookAt>
 			<longitude>-1.160457383439918</longitude>
 			<latitude>50.65065459821911</latitude>
@@ -42,6 +43,7 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</LookAt>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
 		<Point>
 			<gx:drawOrder>1</gx:drawOrder>
 			<coordinates>-1.162506899933916,50.65103868705042,0</coordinates>
